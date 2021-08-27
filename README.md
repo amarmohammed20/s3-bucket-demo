@@ -20,8 +20,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Reference
 
-The source of information for this application has come from "Sam Meech-Ward" who is a youtuber.
-Video - https://www.youtube.com/watch?v=yGYeYJpRWPM
+The source of information for this application has come from "Lee Robinson" who is a developer for Vercel.
+Video - https://github.com/leerob/nextjs-aws-s3
 
 ## Steps of App
 
